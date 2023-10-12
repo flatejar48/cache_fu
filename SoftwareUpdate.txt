@@ -1,1 +1,1 @@
-Adds toggle displaying labels in GUI and verbose log on start (#7804)
+Merge pull request #22 from SkalskiP/patch-1
