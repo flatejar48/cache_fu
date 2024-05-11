@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+YOLOv8 INT8 TFLite Inference Example (#7317)
